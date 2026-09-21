@@ -30,7 +30,7 @@ root.render(
     <div className="row">
 
       <StudentCard
-        image="image1.jpg"
+        image="img1.jpg"
         name="Mathew"
         regno="101"
         department="BCA"
